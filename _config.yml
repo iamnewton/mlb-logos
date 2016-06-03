@@ -1,5 +1,5 @@
 permalink: pretty
-highlighter: pygments
+highlighter: rouge
 kramdown:
   input: GFM
 exclude:
