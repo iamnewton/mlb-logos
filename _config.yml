@@ -1,0 +1,18 @@
+permalink: pretty
+highlighter: pygments
+kramdown:
+  input: GFM
+exclude:
+  - '.github'
+  - 'CODE_OF_CONDUCT.md'
+  - 'LICENSE.md'
+  - 'OWNERS.md'
+  - 'README.md'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+  - 'node_modules'
+  - 'npm-debug.log'
+  - 'package.json'
+  - 'postcss.config.json'
+  - 'src'
+theme_color: 'blue'
