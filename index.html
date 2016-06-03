@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+{% assign teams_by_league = site.data.teams | group_by: "league" | sort: "name" %}
+{% for league in teams_by_league %}
+	{% assign teams_by_division = league.items | group_by: "division" | sort: "name" %}
+	<h2>{{ league.name }}</h2>
+	{% for division in teams_by_division %}
+		<h3>{{ division.name }}</h3>
+		{% for team in division.items | sort: "name" %}
+			<p>{{ team.name }}</p>
+			{% for logo in team.logos.first %}
+				<img src="{{ site.github.url }}/media/{{ team.name | downcase | replace: ' ', '-' }}/{{ logo[0] }}.png" />
+			{% endfor %}
+		{% endfor %}
+	{% endfor %}
+{% endfor %}

@@ -1,0 +1,18 @@
+/* TEAM */
+
+Your title: Newton Koumantzelis
+Site: chrisnewton.me
+Twitter: @iamnewton
+Location: Orange Count, United States.
+
+/* THANKS */
+
+Name: Chris Creamer's Sports Logos <http://www.sportslogos.net/>
+
+/* SITE */
+
+Last update: 2016/07/01
+Standards: HTML5, CSS3, ES2015
+Components: PostCSS, jQuery
+Software: iTerm, ViM, Google Chrome, Mozilla Firefox, Safari
+
