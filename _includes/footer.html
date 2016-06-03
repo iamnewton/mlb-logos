@@ -1,0 +1,15 @@
+<footer id="footer" role="contentinfo">
+	<ul class="list-unstyled list-inline text-center">
+		<li>Current Version: {{ site.github.releases.first.tag_name }}</li>
+		<li><a href="{{ site.github.repository_url }}">GitHub</a></li>
+		<li><a href="{{ site.github.repository_url }}/issues">Issues</a></li>
+		<li><a href="{{ site.github.repository_url }}/releases">Releases</a></li>
+	</ul>
+</footer>
+
+<script src="https://code.jquery.com/jquery-2.2.0.min.js"></script>
+{% if site.github %}
+	<script src="{{ site.github.url }}/dist/scripts/mlb-logos.min.js"></script>
+{% else %}
+	<script src="/dist/scripts/mlb-logos.js"></script>
+{% endif %}
