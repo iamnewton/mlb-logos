@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<div class="range-slider">
+	<input class="range-slider__range" type="range" name="years" min="1871" max="{{ 'now' | date: '%Y' }}" step="1" value="1871" />
+	<output class="range-slider__value" for="years"></output>
+</div>
+
+
 {% assign teams_by_league = site.data.teams | group_by: "league" | sort: "name" %}
 {% for league in teams_by_league %}
 	{% assign teams_by_division = league.items | group_by: "division" | sort: "name" %}
@@ -9,10 +15,20 @@ layout: default
 	{% for division in teams_by_division %}
 		<h3>{{ division.name }}</h3>
 		{% for team in division.items | sort: "name" %}
-			<p>{{ team.name }}</p>
-			{% for logo in team.logos.first %}
-				<img src="{{ site.github.url }}/media/{{ team.name | downcase | replace: ' ', '-' }}/{{ logo[0] }}.png" />
+			<h4>{{ team.name }}</h4>
+
+			{% for logos in team.logos %}
+				{% for obj in logos %}
+					{% capture logo_str %}{{ obj[0] }}: {{ obj[1] }}{% endcapture %}
+					<div class="team" data-year="{{ obj[0] }}" data-team="{{ obj[1] | downcase | replace: ' ', '-' }}">{{ logo_str }}</div>
+				{% endfor %}
 			{% endfor %}
+
+{% comment %}
+			{% for logo in team.logos.first %}
+				<img width="200" src="{{ site.github.url }}/media/{{ team.name | downcase | replace: ' ', '-' }}/{{ logo[0] }}.png" alt="" data-year="{{ logo[0] }}" data-team="{{ logo[1] }}" />
+			{% endfor %}
+{% endcomment %}
 		{% endfor %}
 	{% endfor %}
 {% endfor %}

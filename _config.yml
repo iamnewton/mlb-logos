@@ -2,6 +2,8 @@ permalink: pretty
 highlighter: rouge
 kramdown:
   input: GFM
+include:
+  - '_data'
 exclude:
   - '.github'
   - 'CODE_OF_CONDUCT.md'

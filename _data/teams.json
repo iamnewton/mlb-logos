@@ -1,0 +1,1470 @@
+[
+  {
+    "league": "National",
+    "world-series": [
+      2001
+    ],
+    "name": "Arizona Diamondbacks",
+    "division": "West",
+    "logos": [
+      {
+        "2012": "Arizona Diamondbacks"
+      },
+      {
+        "2008": "Arizona Diamondbacks"
+      },
+      {
+        "2007": "Arizona Diamondbacks"
+      },
+      {
+        "1998": "Arizona Diamondbacks"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      1995,
+      1957,
+      1914
+    ],
+    "name": "Atlanta Braves",
+    "division": "East",
+    "logos": [
+      {
+        "1990": "Atlanta Braves"
+      },
+      {
+        "1987": "Atlanta Braves"
+      },
+      {
+        "1985": "Atlanta Braves"
+      },
+      {
+        "1972": "Atlanta Braves"
+      },
+      {
+        "1968": "Atlanta Braves"
+      },
+      {
+        "1966": "Atlanta Braves"
+      },
+      {
+        "1956": "Milwaukee Braves"
+      },
+      {
+        "1953": "Milwaukee Braves"
+      },
+      {
+        "1945": "Boston Braves"
+      },
+      {
+        "1941": "Boston Braves"
+      },
+      {
+        "1940": "Boston Bees"
+      },
+      {
+        "1939": "Boston Bees"
+      },
+      {
+        "1938": "Boston Bees"
+      },
+      {
+        "1936": "Boston Bees"
+      },
+      {
+        "1929": "Boston Braves"
+      },
+      {
+        "1925": "Boston Braves"
+      },
+      {
+        "1921": "Boston Braves"
+      },
+      {
+        "1916": "Boston Braves"
+      },
+      {
+        "1912": "Boston Braves"
+      },
+      {
+        "1911": "Boston Rustlers"
+      },
+      {
+        "1910": "Boston Doves"
+      },
+      {
+        "1909": "Boston Doves"
+      },
+      {
+        "1908": "Boston Doves"
+      },
+      {
+        "1907": "Boston Doves"
+      },
+      {
+        "1901": "Boston Beaneaters"
+      },
+      {
+        "1900": "Boston Beaneaters"
+      },
+      {
+        "1897": "Boston Beaneaters"
+      },
+      {
+        "1889": "Boston Beaneaters"
+      },
+      {
+        "1883": "Boston Beaneaters"
+      },
+      {
+        "1876": "Boston Red Caps"
+      },
+      {
+        "1871": "Boston Red Stockings"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      1983,
+      1970,
+      1966
+    ],
+    "name": "Baltimore Orioles",
+    "division": "East",
+    "logos": [
+      {
+        "2009": "Baltimore Orioles"
+      },
+      {
+        "1999": "Baltimore Orioles"
+      },
+      {
+        "1998": "Baltimore Orioles"
+      },
+      {
+        "1995": "Baltimore Orioles"
+      },
+      {
+        "1992": "Baltimore Orioles"
+      },
+      {
+        "1989": "Baltimore Orioles"
+      },
+      {
+        "1966": "Baltimore Orioles"
+      },
+      {
+        "1954": "Baltimore Orioles"
+      },
+      {
+        "1952": "St. Louis Browns"
+      },
+      {
+        "1936": "St. Louis Browns"
+      },
+      {
+        "1916": "St. Louis Browns"
+      },
+      {
+        "1915": "St. Louis Browns"
+      },
+      {
+        "1911": "St. Louis Browns"
+      },
+      {
+        "1908": "St. Louis Browns"
+      },
+      {
+        "1906": "St. Louis Browns"
+      },
+      {
+        "1905": "St. Louis Browns"
+      },
+      {
+        "1903": "St. Louis Browns"
+      },
+      {
+        "1902": "St. Louis Browns"
+      },
+      {
+        "1901": "Milwaukee Brewers"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      2013,
+      2007,
+      2004,
+      1918,
+      1916,
+      1915,
+      1912,
+      1903
+    ],
+    "name": "Boston Red Sox",
+    "division": "East",
+    "logos": [
+      {
+        "2009": "Boston Red Sox"
+      },
+      {
+        "1976": "Boston Red Sox"
+      },
+      {
+        "1970": "Boston Red Sox"
+      },
+      {
+        "1961": "Boston Red Sox"
+      },
+      {
+        "1924": "Boston Red Sox"
+      },
+      {
+        "1912": "Boston Red Sox"
+      },
+      {
+        "1909": "Boston Red Sox"
+      },
+      {
+        "1908": "Boston Red Sox"
+      },
+      {
+        "1901": "Boston Americans"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      1908,
+      1907
+    ],
+    "name": "Chicago Cubs",
+    "division": "Central",
+    "logos": [
+      {
+        "1979": "Chicago Cubs"
+      },
+      {
+        "1957": "Chicago Cubs"
+      },
+      {
+        "1941": "Chicago Cubs"
+      },
+      {
+        "1937": "Chicago Cubs"
+      },
+      {
+        "1927": "Chicago Cubs"
+      },
+      {
+        "1919": "Chicago Cubs"
+      },
+      {
+        "1918": "Chicago Cubs"
+      },
+      {
+        "1917": "Chicago Cubs"
+      },
+      {
+        "1916": "Chicago Cubs"
+      },
+      {
+        "1911": "Chicago Cubs"
+      },
+      {
+        "1908": "Chicago Cubs"
+      },
+      {
+        "1907": "Chicago Cubs"
+      },
+      {
+        "1906": "Chicago Cubs"
+      },
+      {
+        "1903": "Chicago Cubs"
+      },
+      {
+        "1901": "Chicago Orphans"
+      },
+      {
+        "1890": "Chicago Colts"
+      },
+      {
+        "1876": "Chicago White Stockings"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      2005,
+      1917,
+      1906
+    ],
+    "name": "Chicago White Sox",
+    "division": "Central",
+    "logos": [
+      {
+        "1991": "Chicago White Sox"
+      },
+      {
+        "1987": "Chicago White Sox"
+      },
+      {
+        "1982": "Chicago White Sox"
+      },
+      {
+        "1976": "Chicago White Sox"
+      },
+      {
+        "1960": "Chicago White Sox"
+      },
+      {
+        "1949": "Chicago White Sox"
+      },
+      {
+        "1939": "Chicago White Sox"
+      },
+      {
+        "1936": "Chicago White Sox"
+      },
+      {
+        "1932": "Chicago White Sox"
+      },
+      {
+        "1918": "Chicago White Sox"
+      },
+      {
+        "1917": "Chicago White Sox"
+      },
+      {
+        "1912": "Chicago White Sox"
+      },
+      {
+        "1910": "Chicago White Sox"
+      },
+      {
+        "1908": "Chicago White Sox"
+      },
+      {
+        "1906": "Chicago White Sox"
+      },
+      {
+        "1905": "Chicago White Sox"
+      },
+      {
+        "1904": "Chicago White Sox"
+      },
+      {
+        "1903": "Chicago White Stockings"
+      },
+      {
+        "1901": "Chicago White Stockings"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      1990,
+      1976,
+      1975,
+      1940,
+      1919
+    ],
+    "name": "Cincinnati Reds",
+    "division": "Central",
+    "logos": [
+      {
+        "1999": "Cincinnati Reds"
+      },
+      {
+        "1993": "Cincinnati Reds"
+      },
+      {
+        "1972": "Cincinnati Reds"
+      },
+      {
+        "1967": "Cincinnati Reds"
+      },
+      {
+        "1961": "Cincinnati Reds"
+      },
+      {
+        "1960": "Cincinnati Reds"
+      },
+      {
+        "1954": "Cincinnati Redlegs"
+      },
+      {
+        "1939": "Cincinnati Reds"
+      },
+      {
+        "1937": "Cincinnati Reds"
+      },
+      {
+        "1936": "Cincinnati Reds"
+      },
+      {
+        "1920": "Cincinnati Reds"
+      },
+      {
+        "1915": "Cincinnati Reds"
+      },
+      {
+        "1914": "Cincinnati Reds"
+      },
+      {
+        "1913": "Cincinnati Reds"
+      },
+      {
+        "1908": "Cincinnati Reds"
+      },
+      {
+        "1906": "Cincinnati Reds"
+      },
+      {
+        "1905": "Cincinnati Reds"
+      },
+      {
+        "1901": "Cincinnati Reds"
+      },
+      {
+        "1900": "Cincinnati Reds"
+      },
+      {
+        "1890": "Cincinnati Reds"
+      },
+      {
+        "1881": "Cincinnati Red Stockings"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      1948,
+      1920
+    ],
+    "name": "Cleveland Indians",
+    "division": "Central",
+    "logos": [
+      {
+        "2014": "Cleveland Indians"
+      },
+      {
+        "1986": "Cleveland Indians"
+      },
+      {
+        "1979": "Cleveland Indians"
+      },
+      {
+        "1973": "Cleveland Indians"
+      },
+      {
+        "1949": "Cleveland Indians"
+      },
+      {
+        "1946": "Cleveland Indians"
+      },
+      {
+        "1939": "Cleveland Indians"
+      },
+      {
+        "1933": "Cleveland Indians"
+      },
+      {
+        "1929": "Cleveland Indians"
+      },
+      {
+        "1928": "Cleveland Indians"
+      },
+      {
+        "1921": "Cleveland Indians"
+      },
+      {
+        "1915": "Cleveland Indians"
+      },
+      {
+        "1910": "Cleveland Naps"
+      },
+      {
+        "1909": "Cleveland Naps"
+      },
+      {
+        "1906": "Cleveland Naps"
+      },
+      {
+        "1905": "Cleveland Naps"
+      },
+      {
+        "1903": "Cleveland Naps"
+      },
+      {
+        "1902": "Cleveland Broncos"
+      },
+      {
+        "1901": "Cleveland Bluebirds"
+      },
+      {
+        "1900": "Clevland Lake Shores"
+      },
+      {
+        "1894": "Grand Rapid Rustlers"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": null,
+    "name": "Colorado Rockies",
+    "division": "West",
+    "logos": [
+      {
+        "1993": "Colorado Rockies"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      1984,
+      1968,
+      1945,
+      1935
+    ],
+    "name": "Detroit Tigers",
+    "division": "Central",
+    "logos": [
+      {
+        "2016": "Detroit Tigers"
+      },
+      {
+        "2006": "Detroit Tigers"
+      },
+      {
+        "1994": "Detroit Tigers"
+      },
+      {
+        "1964": "Detroit Tigers"
+      },
+      {
+        "1961": "Detroit Tigers"
+      },
+      {
+        "1957": "Detroit Tigers"
+      },
+      {
+        "1934": "Detroit Tigers"
+      },
+      {
+        "1931": "Detroit Tigers"
+      },
+      {
+        "1930": "Detroit Tigers"
+      },
+      {
+        "1929": "Detroit Tigers"
+      },
+      {
+        "1927": "Detroit Tigers"
+      },
+      {
+        "1926": "Detroit Tigers"
+      },
+      {
+        "1925": "Detroit Tigers"
+      },
+      {
+        "1921": "Detroit Tigers"
+      },
+      {
+        "1918": "Detroit Tigers"
+      },
+      {
+        "1917": "Detroit Tigers"
+      },
+      {
+        "1916": "Detroit Tigers"
+      },
+      {
+        "1914": "Detroit Tigers"
+      },
+      {
+        "1908": "Detroit Tigers"
+      },
+      {
+        "1905": "Detroit Tigers"
+      },
+      {
+        "1904": "Detroit Tigers"
+      },
+      {
+        "1903": "Detroit Tigers"
+      },
+      {
+        "1901": "Detroit Tigers"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": null,
+    "name": "Houston Astros",
+    "division": "West",
+    "logos": [
+      {
+        "2013": "Houston Astros"
+      },
+      {
+        "2000": "Houston Astros"
+      },
+      {
+        "1995": "Houston Astros"
+      },
+      {
+        "1994": "Houston Astros"
+      },
+      {
+        "1977": "Houston Astros"
+      },
+      {
+        "1965": "Houston Astros"
+      },
+      {
+        "1962": "Houston Colt .45s"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      2015,
+      1985
+    ],
+    "name": "Kansas City Royals",
+    "division": "Central",
+    "logos": [
+      {
+        "2002": "Kansas City Royals"
+      },
+      {
+        "1993": "Kansas City Royals"
+      },
+      {
+        "1986": "Kansas City Royals"
+      },
+      {
+        "1979": "Kansas City Royals"
+      },
+      {
+        "1969": "Kansas City Royals"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      2002
+    ],
+    "name": "Los Angeles Angels",
+    "division": "West",
+    "logos": [
+      {
+        "2005": "Los Angeles Angels of Anaheim"
+      },
+      {
+        "2002": "Anaheim Angels"
+      },
+      {
+        "1997": "Anaheim Angels"
+      },
+      {
+        "1995": "California Angels"
+      },
+      {
+        "1993": "California Angels"
+      },
+      {
+        "1986": "California Angels"
+      },
+      {
+        "1973": "California Angels"
+      },
+      {
+        "1971": "California Angels"
+      },
+      {
+        "1965": "California Angels"
+      },
+      {
+        "1961": "Los Angeles Angels"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      1988,
+      1981,
+      1965,
+      1963,
+      1959,
+      1955
+    ],
+    "name": "Los Angeles Dodgers",
+    "division": "West",
+    "logos": [
+      {
+        "2012": "Los Angeles Dodgers"
+      },
+      {
+        "1979": "Los Angeles Dodgers"
+      },
+      {
+        "1972": "Los Angeles Dodgers"
+      },
+      {
+        "1968": "Los Angeles Dodgers"
+      },
+      {
+        "1958": "Los Angeles Dodgers"
+      },
+      {
+        "1945": "Brooklyn Dodgers"
+      },
+      {
+        "1939": "Brooklyn Dodgers"
+      },
+      {
+        "1937": "Brooklyn Dodgers"
+      },
+      {
+        "1932": "Brooklyn Dodgers"
+      },
+      {
+        "1931": "Brooklyn Robins"
+      },
+      {
+        "1930": "Brooklyn Robins"
+      },
+      {
+        "1929": "Brooklyn Robins"
+      },
+      {
+        "1928": "Brooklyn Robins"
+      },
+      {
+        "1926": "Brooklyn Robins"
+      },
+      {
+        "1914": "Brooklyn Robins"
+      },
+      {
+        "1913": "Brooklyn Superbas"
+      },
+      {
+        "1912": "Brooklyn Trolley Dodgers"
+      },
+      {
+        "1911": "Brooklyn Trolley Dodgers"
+      },
+      {
+        "1910": "Brooklyn Superbas"
+      },
+      {
+        "1909": "Brooklyn Superbas"
+      },
+      {
+        "1902": "Brooklyn Superbas"
+      },
+      {
+        "1899": "Brooklyn Superbas"
+      },
+      {
+        "1896": "Brooklyn Bridegrooms"
+      },
+      {
+        "1891": "Brooklyn Grooms"
+      },
+      {
+        "1888": "Brooklyn Bridegrooms"
+      },
+      {
+        "1885": "Brooklyn Grays"
+      },
+      {
+        "1883": "Brooklyn Atlantics"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      2003,
+      1997
+    ],
+    "name": "Miami Marlins",
+    "division": "East",
+    "logos": [
+      {
+        "2012": "Miami Marlins"
+      },
+      {
+        "1993": "Florida Marlins"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": null,
+    "name": "Milwaukee Brewers",
+    "division": "Central",
+    "logos": [
+      {
+        "2000": "Milwaukee Brewers"
+      },
+      {
+        "1998": "Milwaukee Brewers"
+      },
+      {
+        "1994": "Milwaukee Brewers"
+      },
+      {
+        "1978": "Milwaukee Brewers"
+      },
+      {
+        "1970": "Milwaukee Brewers"
+      },
+      {
+        "1969": "Seattle Pilots"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      1991,
+      1987,
+      1924
+    ],
+    "name": "Minnesota Twins",
+    "division": "Central",
+    "logos": [
+      {
+        "2010": "Minnesota Twins"
+      },
+      {
+        "1987": "Minnesota Twins"
+      },
+      {
+        "1976": "Minnesota Twins"
+      },
+      {
+        "1961": "Minnesota Twins"
+      },
+      {
+        "1959": "Washington Senators"
+      },
+      {
+        "1955": "Washington Senators"
+      },
+      {
+        "1948": "Washington Senators"
+      },
+      {
+        "1936": "Washington Nationals"
+      },
+      {
+        "1929": "Washington Nationals"
+      },
+      {
+        "1928": "Washington Nationals"
+      },
+      {
+        "1912": "Washington Nationals"
+      },
+      {
+        "1907": "Washington Nationals"
+      },
+      {
+        "1906": "Washington Nationals"
+      },
+      {
+        "1905": "Washington Nationals"
+      },
+      {
+        "1904": "Washington Senators"
+      },
+      {
+        "1903": "Washington Senators"
+      },
+      {
+        "1902": "Washington Senators"
+      },
+      {
+        "1901": "Washington Senators"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      1986,
+      1969
+    ],
+    "name": "New York Mets",
+    "division": "East",
+    "logos": [
+      {
+        "1999": "New York Mets"
+      },
+      {
+        "1993": "New York Mets"
+      },
+      {
+        "1962": "New York Mets"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      2009,
+      2000,
+      1999,
+      1998,
+      1996,
+      1978,
+      1977,
+      1962,
+      1961,
+      1958,
+      1956,
+      1953,
+      1952,
+      1951,
+      1950,
+      1949,
+      1947,
+      1943,
+      1941,
+      1939,
+      1938,
+      1937,
+      1936,
+      1932,
+      1928,
+      1927,
+      1923
+    ],
+    "name": "New York Yankees",
+    "division": "East",
+    "logos": [
+      {
+        "1968": "New York Yankees"
+      },
+      {
+        "1947": "New York Yankees"
+      },
+      {
+        "1915": "New York Yankees"
+      },
+      {
+        "1913": "New York Yankees"
+      },
+      {
+        "1909": "New York Highlanders"
+      },
+      {
+        "1908": "New York Highlanders"
+      },
+      {
+        "1907": "New York Highlanders"
+      },
+      {
+        "1906": "New York Highlanders"
+      },
+      {
+        "1905": "New York Highlanders"
+      },
+      {
+        "1904": "New York Highlanders"
+      },
+      {
+        "1903": "New York Highlanders"
+      },
+      {
+        "1902": "Baltimore Orioles"
+      },
+      {
+        "1901": "Baltimore Orioles"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      1989,
+      1974,
+      1973,
+      1972,
+      1930,
+      1929,
+      1913,
+      1911,
+      1910
+    ],
+    "name": "Oakland Athletics",
+    "division": "West",
+    "logos": [
+      {
+        "1993": "Oakland Athletics"
+      },
+      {
+        "1982": "Oakland Athletics"
+      },
+      {
+        "1971": "Oakland Athletics"
+      },
+      {
+        "1968": "Oakland Athletics"
+      },
+      {
+        "1955": "Kansas City Athletics"
+      },
+      {
+        "1954": "Philadelphia Athletics"
+      },
+      {
+        "1939": "Philadelphia Athletics"
+      },
+      {
+        "1930": "Philadelphia Athletics"
+      },
+      {
+        "1928": "Philadelphia Athletics"
+      },
+      {
+        "1924": "Philadelphia Athletics"
+      },
+      {
+        "1921": "Philadelphia Athletics"
+      },
+      {
+        "1920": "Philadelphia Athletics"
+      },
+      {
+        "1902": "Philadelphia Athletics"
+      },
+      {
+        "1901": "Philadelphia Athletics"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      2008,
+      1980
+    ],
+    "name": "Philadelphia Phillies",
+    "division": "East",
+    "logos": [
+      {
+        "1992": "Philadelphia Phillies"
+      },
+      {
+        "1984": "Philadelphia Phillies"
+      },
+      {
+        "1970": "Philadelphia Phillies"
+      },
+      {
+        "1950": "Philadelphia Phillies"
+      },
+      {
+        "1946": "Philadelphia Phillies"
+      },
+      {
+        "1944": "Philadelphia Phillies"
+      },
+      {
+        "1939": "Philadelphia Phillies"
+      },
+      {
+        "1938": "Philadelphia Phillies"
+      },
+      {
+        "1900": "Philadelphia Phillies"
+      },
+      {
+        "1890": "Philadelphia Phillies"
+      },
+      {
+        "1883": "Philadelphia Quakers"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      1979,
+      1971,
+      1960,
+      1925,
+      1909
+    ],
+    "name": "Pittsburgh Pirates",
+    "division": "Central",
+    "logos": [
+      {
+        "2014": "Pittsburgh Pirates"
+      },
+      {
+        "1997": "Pittsburgh Pirates"
+      },
+      {
+        "1987": "Pittsburgh Pirates"
+      },
+      {
+        "1967": "Pittsburgh Pirates"
+      },
+      {
+        "1958": "Pittsburgh Pirates"
+      },
+      {
+        "1934": "Pittsburgh Pirates"
+      },
+      {
+        "1923": "Pittsburgh Pirates"
+      },
+      {
+        "1922": "Pittsburgh Pirates"
+      },
+      {
+        "1920": "Pittsburgh Pirates"
+      },
+      {
+        "1915": "Pittsburgh Pirates"
+      },
+      {
+        "1912": "Pittsburgh Pirates"
+      },
+      {
+        "1908": "Pittsburg Pirates"
+      },
+      {
+        "1900": "Pittsburg Pirates"
+      },
+      {
+        "1891": "Pittsburg Pirates"
+      },
+      {
+        "1887": "Pittsburg Alleghenys"
+      },
+      {
+        "1882": "Alleghenys"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": null,
+    "name": "San Diego Padres",
+    "division": "West",
+    "logos": [
+      {
+        "2015": "San Diego Padres"
+      },
+      {
+        "2012": "San Diego Padres"
+      },
+      {
+        "2011": "San Diego Padres"
+      },
+      {
+        "2004": "San Diego Padres"
+      },
+      {
+        "1992": "San Diego Padres"
+      },
+      {
+        "1991": "San Diego Padres"
+      },
+      {
+        "1990": "San Diego Padres"
+      },
+      {
+        "1986": "San Diego Padres"
+      },
+      {
+        "1985": "San Diego Padres"
+      },
+      {
+        "1969": "San Diego Padres"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      2014,
+      2012,
+      2010,
+      1954,
+      1933,
+      1922,
+      1921,
+      1905
+    ],
+    "name": "San Francisco Giants",
+    "division": "West",
+    "logos": [
+      {
+        "2000": "San Francisco Giants"
+      },
+      {
+        "1994": "San Francisco Giants"
+      },
+      {
+        "1983": "San Francisco Giants"
+      },
+      {
+        "1973": "San Francisco Giants"
+      },
+      {
+        "1968": "San Francisco Giants"
+      },
+      {
+        "1958": "San Francisco Giants"
+      },
+      {
+        "1947": "New York Giants"
+      },
+      {
+        "1940": "New York Giants"
+      },
+      {
+        "1936": "New York Giants"
+      },
+      {
+        "1933": "New York Giants"
+      },
+      {
+        "1930": "New York Giants"
+      },
+      {
+        "1928": "New York Giants"
+      },
+      {
+        "1924": "New York Giants"
+      },
+      {
+        "1923": "New York Giants"
+      },
+      {
+        "1918": "New York Giants"
+      },
+      {
+        "1917": "New York Giants"
+      },
+      {
+        "1916": "New York Giants"
+      },
+      {
+        "1915": "New York Giants"
+      },
+      {
+        "1913": "New York Giants"
+      },
+      {
+        "1911": "New York Giants"
+      },
+      {
+        "1910": "New York Giants"
+      },
+      {
+        "1909": "New York Giants"
+      },
+      {
+        "1908": "New York Giants"
+      },
+      {
+        "1904": "New York Giants"
+      },
+      {
+        "1883": "New York Gothams"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": null,
+    "name": "Seattle Mariners",
+    "division": "West",
+    "logos": [
+      {
+        "1993": "Seattle Mariners"
+      },
+      {
+        "1987": "Seattle Mariners"
+      },
+      {
+        "1981": "Seattle Mariners"
+      },
+      {
+        "1977": "Seattle Mariners"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": [
+      2011,
+      2006,
+      1982,
+      1967,
+      1964,
+      1946,
+      1944,
+      1942,
+      1934,
+      1931,
+      1926
+    ],
+    "name": "St. Louis Cardinals",
+    "division": "Central",
+    "logos": [
+      {
+        "1998": "St. Louis Cardinals"
+      },
+      {
+        "1967": "St. Louis Cardinals"
+      },
+      {
+        "1956": "St. Louis Cardinals"
+      },
+      {
+        "1949": "St. Louis Cardinals"
+      },
+      {
+        "1929": "St. Louis Cardinals"
+      },
+      {
+        "1927": "St. Louis Cardinals"
+      },
+      {
+        "1922": "St. Louis Cardinals"
+      },
+      {
+        "1900": "St. Louis Cardinals"
+      },
+      {
+        "1899": "St. Louis Perfectos"
+      },
+      {
+        "1883": "St. Louis Browns"
+      },
+      {
+        "1882": "St. Louis Brown Stockings"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": null,
+    "name": "Tampa Bay Rays",
+    "division": "East",
+    "logos": [
+      {
+        "2008": "Tampa Bay Rays"
+      },
+      {
+        "2001": "Tampa Bay Devil Rays"
+      },
+      {
+        "1998": "Tampa Bay Devil Rays"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": "none",
+    "name": "Texas Rangers",
+    "division": "West",
+    "logos": [
+      {
+        "2003": "Texas Rangers"
+      },
+      {
+        "1994": "Texas Rangers"
+      },
+      {
+        "1984": "Texas Rangers"
+      },
+      {
+        "1982": "Texas Rangers"
+      },
+      {
+        "1972": "Texas Rangers"
+      },
+      {
+        "1961": "Washington Senators"
+      }
+    ]
+  },
+  {
+    "league": "American",
+    "world-series": [
+      1993,
+      1992
+    ],
+    "name": "Toronto Blue Jays",
+    "division": "East",
+    "logos": [
+      {
+        "2012": "Toronto Blue Jays"
+      },
+      {
+        "2004": "Toronto Blue Jays"
+      },
+      {
+        "2003": "Toronto Blue Jays"
+      },
+      {
+        "1997": "Toronto Blue Jays"
+      },
+      {
+        "1977": "Toronto Blue Jays"
+      }
+    ]
+  },
+  {
+    "league": "National",
+    "world-series": null,
+    "name": "Washington Nationals",
+    "division": "East",
+    "logos": [
+      {
+        "2011": "Washington Nationals"
+      },
+      {
+        "2005": "Washington Nationals"
+      },
+      {
+        "1992": "Montreal Expos"
+      },
+      {
+        "1969": "Montreal Expos"
+      }
+    ]
+  }
+]
