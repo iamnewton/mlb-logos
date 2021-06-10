@@ -52,7 +52,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.9.11",
-    "cssnano": "^3.6.2",
+    "cssnano": "^5.0.6",
     "parallelshell": "^2.0.0",
     "postcss-browser-reporter": "^0.5.0",
     "postcss-cli": "^2.5.2",
